@@ -1,7 +1,7 @@
-![diagram class](img/diagram class.jpg)
+![diagram class](img/diagram%20class.jpg)
 
-![use case](img/use case.jpg)
+![use case](img/use%20case.jpg)
 
-![diagram sequence](img/diagram sequence.jpg)
+![diagram sequence](img/diagram%20sequence.jpg)
 
-![diagram activity](img/diagram activity.jpg)
+![diagram activity](img/diagram%20activity.jpg)
