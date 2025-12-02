@@ -1,0 +1,27 @@
+public class Faculty {
+
+	public String name;
+
+	public String getName() {
+		return this.name;
+	}
+
+	/**
+	 * 
+	 * @param name
+	 */
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public void addEmloyee() {
+		// TODO - implement Faculty.addEmloyee
+		throw new UnsupportedOperationException();
+	}
+
+	public void removeEmployee() {
+		// TODO - implement Faculty.removeEmployee
+		throw new UnsupportedOperationException();
+	}
+
+}
