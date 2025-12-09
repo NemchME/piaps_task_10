@@ -2,6 +2,8 @@ public class Institute {
 
 	public String name;
 	public String address;
+	public Faculty faculties;
+	public ResearchAssociate employees;
 
 	public String getName() {
 		return this.name;
@@ -25,6 +27,24 @@ public class Institute {
 	 */
 	public void setAddress(String address) {
 		this.address = address;
+	}
+
+	/**
+	 * 
+	 * @param faculty
+	 */
+	public void addFaculty(Faculty faculty) {
+		// TODO - implement Institute.addFaculty
+		throw new UnsupportedOperationException();
+	}
+
+	/**
+	 * 
+	 * @param faculty
+	 */
+	public void removeFaculty(Faculty faculty) {
+		// TODO - implement Institute.removeFaculty
+		throw new UnsupportedOperationException();
 	}
 
 }

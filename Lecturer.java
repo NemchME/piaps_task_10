@@ -23,4 +23,6 @@ public class Lecturer extends ResearchAssociate {
 		throw new UnsupportedOperationException();
 	}
 
+	public Course course;
+
 }

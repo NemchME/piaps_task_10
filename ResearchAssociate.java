@@ -1,6 +1,7 @@
 public class ResearchAssociate extends Employee {
 
 	public String fieldOfStudy;
+	public Project projects;
 
 	public String getFieldOfStudy() {
 		return this.fieldOfStudy;

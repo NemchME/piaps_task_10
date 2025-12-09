@@ -4,6 +4,7 @@ public class Employee {
 	public String name;
 	public String phone;
 	public String position;
+	private float salary;
 
 	public String getPhone() {
 		return this.phone;
@@ -43,6 +44,11 @@ public class Employee {
 
 	public void getSalary() {
 		// TODO - implement Employee.getSalary
+		throw new UnsupportedOperationException();
+	}
+
+	public void setSalary() {
+		// TODO - implement Employee.setSalary
 		throw new UnsupportedOperationException();
 	}
 

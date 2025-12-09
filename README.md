@@ -1,7 +1,15 @@
-![diagram class](img/diagram%20class.jpg)
+# diagram class
 
-![use case](img/use%20case.jpg)
+![diagram class](img/diagram%20class.png)
 
-![diagram sequence](img/diagram%20sequence.jpg)
+# diagram class (reverse)
+![diagram class reverse](img/diagram%20class%20reverse.png)
 
-![diagram activity](img/diagram%20activity.jpg)
+# use case
+![use case](img/use%20case.png)
+
+# diagram sequence
+![diagram sequence](img/diagram%20sequence.png)
+
+# diagram activity
+![diagram activity](img/diagram%20activity.png)
